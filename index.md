@@ -5,10 +5,10 @@ School of Water Resources and Environment in China University of Geosciences (Be
 
 ----------
 Tel: 13051825911
-<br>email: gch(at)cugb.edu.cn,pronouns:he,him,his
+<br>email: gch(at)cugb.edu.cn, pronouns:he,him,his
 
- 
-### Biography
+
+### <tr><td bgcolor=#bfe1f1 >Biography</td></tr>
 
 ## Education
 
