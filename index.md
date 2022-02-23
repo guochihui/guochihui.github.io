@@ -20,8 +20,8 @@ Tel:
 ### <font color=white> Experience <tr>
 upup
 
- <tr><td bgcolor=#4169E1>
-### <font color=white> Research <tr>
+
+###  <tr><td bgcolor=#4169E1><font color=white> Research <tr>
 upup
 
   <tr><td bgcolor=#4169E1>
