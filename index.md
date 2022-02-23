@@ -6,9 +6,9 @@ School of Water Resources and Environment in China University of Geosciences (Be
 ----------
 Tel:
 <br>email: gch(at)cugb.edu.cn,pronouns:he,him,his
-<tr><td bgcolor=#4169E1>
+
  
-### <font color = white> Biography <tr>
+### <tr><td bgcolor=#4169E1><font color = white> Biography <tr>
 
 ## Education
 
@@ -16,8 +16,7 @@ Tel:
 - 2015-2019, B.Sc. **Groundwater Science and Engineering**,China University of Geosciences (Beijing)
 
 
- <tr><td bgcolor=#4169E1>
-### <font color=white> Experience <tr>
+###  <tr><td bgcolor=#4169E1><font color=white> Experience <tr>
 upup
 
 
