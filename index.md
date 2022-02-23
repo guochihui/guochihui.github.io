@@ -16,13 +16,15 @@ Tel:
 - 2015-2019, B.Sc. **Groundwater Science and Engineering**,China University of Geosciences (Beijing)
 
 
-<tr><td bgcolor=#4169E1>
+ <tr><td bgcolor=#4169E1>
 ### <font color=white> Experience <tr>
 upup
-<tr><td bgcolor=#4169E1>
+
+ <tr><td bgcolor=#4169E1>
 ### <font color=white> Research <tr>
 upup
-<tr><td bgcolor=#4169E1>
+
+  <tr><td bgcolor=#4169E1>
 ### <font color=white> Project <tr>
 upup
  
