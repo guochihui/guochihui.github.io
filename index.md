@@ -8,7 +8,7 @@ Tel: 13051825911
 <br>email: gch(at)cugb.edu.cn,pronouns:he,him,his
 
  
-### <p><tr><td bgcolor=#4169E1><font color = white> Biography <tr></p>
+### <tr><td bgcolor=#4169E1><font color = white> Biography </tr>
 
 ## Education
 
