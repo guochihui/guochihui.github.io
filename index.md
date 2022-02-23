@@ -8,7 +8,7 @@ Tel: 13051825911
 <br>email: gch(at)cugb.edu.cn,pronouns:he,him,his
 
  
-### <tr><td bgcolor=#4169E1><font color = white> Biography </tr>
+### Biography
 
 ## Education
 
@@ -16,18 +16,18 @@ Tel: 13051825911
 - 2015-2019, B.Sc. **Groundwater Science and Engineering**,China University of Geosciences (Beijing)
 
 
-###  <tr><td bgcolor=#4169E1><font color=white> Experience </tr>
+###  Experience 
 upup
 
 
-###  <tr><td bgcolor=#4169E1><font color=white> Research </tr>
+###  Research 
 upup
 
-### <tr><td bgcolor=#4169E1> <font color=white> Project </tr>
+### Project 
 upup
  
 
-### <tr><td bgcolor=#4169E1><font color=white> Publication </tr>
+###  Publication 
 
 1.	**Chi-hui Guo**, Mao-sheng Zhang, Yao Wang et al,. Ecological Restoration of China’s Territorial Space in Yulin Section of the Yellow River Basin through Nature-based Solutions[J]. Geological Bulletin of China,2022. 
 
